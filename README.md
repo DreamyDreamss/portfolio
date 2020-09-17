@@ -47,6 +47,3 @@ https://github.com/Leejoohyung-sejong/2019_01_06__Bank_System
  ### Algorithm Study
  -----------------------------------------------
  
-  ### JS Project
- -----------------------------------------------
- https://github.com/Leejoohyung-sejong/reactproj
