@@ -57,14 +57,20 @@
  ### Unity Project
  -----------------------------------------------------------
  - Unity 3D VR FPS  (유니티를 활용한 3D 네트워크 VR게임)
+ 
  https://github.com/Leejoohyung-sejong/2019_08_01__The_Thieves
+ 
  - Unity 3D Maze (유니티를 활용한 미로찾기 게임)
+ 
  https://github.com/Leejoohyung-sejong/MazeGame-1
 
  ### C++ Project
 --------------------------------------------------------------
  - MFC를 활용하여 가상 은행전산 시스템 개발
+ 
 https://github.com/Leejoohyung-sejong/2019_01_06__Bank_System
  ### Algorithm Study
  -----------------------------------------------
+ 
+ https://github.com/Leejoohyung-sejong/Algorithm_Study
  
