@@ -85,3 +85,5 @@ https://github.com/Leejoohyung-sejong/WEB_PJT-A
 
 ### Java Study
  --------------------------------------------------------------
+ - 자바 프로젝트 웹프로젝트로 환경구축 (Apache Tomcat)
+ https://gist.github.com/Leejoohyung-sejong/0d84af568d8f2f407771c2dcdefb958d
